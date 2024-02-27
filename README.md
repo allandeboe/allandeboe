@@ -8,7 +8,7 @@ or IT roles.
 
 💭 Planning to work on a project that incorporates *Apache Spark*, *TensorFlow*, and *Machine Learning* to expand my skillset to do data engineer/data scientist roles.
 
-🎓 I have interest in *web development*, *machine learning*, & *embedded programming*.
+🎓 I have interest in *web development*, *machine learning*, *embedded programming*, and anything with *graphic design* involved.
 
 🌱 For GitHub projects I worked on for ASU: [https://github.com/adeboe](https://github.com/adeboe)
 
