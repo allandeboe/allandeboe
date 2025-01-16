@@ -2,7 +2,9 @@
 I'm a freelance software engineer who graduated from Arizona State University, with skills in Java (Spring) Full-stack Web Development and writing automation scripts in Python.
 
 Feel free to reach out!
+
 💬 **Email**: [allan.m.deboe@gmail.com](mailto:allan.m.deboe@gmail.com)
+
 🏢 **LinkedIn**: [linkedin.com/in/allan-deboe](linkedin.com/in/allan-deboe)
 
 ---
