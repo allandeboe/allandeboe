@@ -1,5 +1,5 @@
 ### Hi! I'm Allan!
-I'm a freelance software engineer who graduated from Arizona State University, with skills in Java (Spring) Full-stack Web Development and writing automation scripts in Python.
+I'm a freelance software engineer who graduated from Arizona State University, with skills in Java (Spring) full-stack web development and writing automation scripts in Python.
 
 Feel free to reach out!
 
