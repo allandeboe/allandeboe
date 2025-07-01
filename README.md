@@ -5,7 +5,7 @@ Feel free to reach out!
 
 💬 **Email**: [allan.m.deboe@gmail.com](mailto:allan.m.deboe@gmail.com)
 
-🏢 **LinkedIn**: [linkedin.com/in/allan-deboe](linkedin.com/in/allan-deboe)
+🏢 **LinkedIn**: [linkedin.com/in/allan-deboe](https://www.linkedin.com/in/allan-deboe)
 
 ---
 
